@@ -746,7 +746,7 @@ uil-data:password.VIVO.plasma
 uil-data:intro_para1.VIVO.plasma
         rdf:type         owl:NamedIndividual ;
         rdf:type         uil:UILabel ;
-        rdfs:label       "VIVO is a research-focused discovery tool that enables collaboration among scientists across all disciplines."@en-CA ;
+        rdfs:label       "Plasma Knowledge Graph (Plasma-KG) is a VIVO-based semantic information platform for low-temperature plasma science and technology."@en-CA ;
         uil:hasApp      "VIVO" ;
         uil:hasKey      "intro_para1" ;
         uil:hasPackage  "VIVO-languages" ;
@@ -826,7 +826,7 @@ uil-data:grant_date.VIVO.plasma
 uil-data:intro_para2.VIVO.plasma
         rdf:type         owl:NamedIndividual ;
         rdf:type         uil:UILabel ;
-        rdfs:label       "Browse or search information on people, departments, courses, grants, and publications."@en-CA ;
+        rdfs:label       "Browse or search information on researchers, publications, datasets, plasma sources, and methods."@en-CA ;
         uil:hasApp      "VIVO" ;
         uil:hasKey      "intro_para2" ;
         uil:hasPackage  "VIVO-languages" ;

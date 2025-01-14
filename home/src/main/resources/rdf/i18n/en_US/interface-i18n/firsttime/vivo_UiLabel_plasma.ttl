@@ -746,7 +746,7 @@ uil-data:password.VIVO.plasma
 uil-data:intro_para1.VIVO.plasma
         rdf:type         owl:NamedIndividual ;
         rdf:type         uil:UILabel ;
-        rdfs:label       "Plasma Knowledge Graph (Plasma-KG) is a VIVO-based semantic information platform for low-temperature plasma science and technology"@en-US ;
+        rdfs:label       "Plasma Knowledge Graph (Plasma-KG) is a VIVO-based semantic information platform for low-temperature plasma science and technology."@en-US ;
         uil:hasApp      "VIVO" ;
         uil:hasKey      "intro_para1" ;
         uil:hasPackage  "VIVO-languages" ;
